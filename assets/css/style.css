@@ -97,4 +97,21 @@ section{
     color: white;
 }
 
+footer{
+    padding: 60px 0;
+    background-image: linear-gradient(rgba(50, 168, 219, 0) , rgba(50, 168, 219, 0.25));
+    border-top: 2px solid #33A8DB;
+}
+
+footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer .dio-logo{
+    width: 300px;
+}
+
+
 
